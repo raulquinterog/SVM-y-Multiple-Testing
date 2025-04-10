@@ -1,5 +1,14 @@
 # A3.1 – SVM y Multiple Testing
 
+---
+
+## Archivo de datos
+
+- [A3.1 Khan.csv](https://github.com/raulquinterog/SVM-y-Multiple-Testing/blob/207a342eceeb7489c7d0c804e8dfbdb7571bd95e/A3.1%20Khan.csv): archivo con 83 muestras y 2309 columnas (2308 genes + clase)
+- [A3.1.SVM.ipynb](https://github.com/raulquinterog/SVM-y-Multiple-Testing/blob/207a342eceeb7489c7d0c804e8dfbdb7571bd95e/A3.1.SVM.ipynb): archivo con el código
+
+---
+
 ## Descripción general
 
 Esta ejercicio analiza la expresión génica en una base de datos con 83 muestras y 2308 variables (genes), clasificadas en 4 tipos de cáncer. Se busca:
@@ -45,12 +54,5 @@ Esta ejercicio analiza la expresión génica en una base de datos con 83 muestra
 - El uso de métodos de corrección afecta significativamente la cantidad de genes detectados.
 - Los modelos SVM con kernel lineal y RBF ofrecieron el mejor desempeño, alcanzando precisión perfecta en el conjunto de prueba.
 - La selección adecuada de características y el kernel influye de forma crítica en la calidad de los modelos.
-
----
-
-## Archivo de datos
-
-- [A3.1 Khan.csv](https://github.com/raulquinterog/SVM-y-Multiple-Testing/blob/207a342eceeb7489c7d0c804e8dfbdb7571bd95e/A3.1%20Khan.csv): archivo con 83 muestras y 2309 columnas (2308 genes + clase)
-- [A3.1.SVM.ipynb](https://github.com/raulquinterog/SVM-y-Multiple-Testing/blob/207a342eceeb7489c7d0c804e8dfbdb7571bd95e/A3.1.SVM.ipynb): archivo con el código
 
 ---
