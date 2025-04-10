@@ -2,7 +2,7 @@
 
 ---
 
-## Archivo de datos
+## Archivos de datos
 
 - [A3.1 Khan.csv](https://github.com/raulquinterog/SVM-y-Multiple-Testing/blob/207a342eceeb7489c7d0c804e8dfbdb7571bd95e/A3.1%20Khan.csv): archivo con 83 muestras y 2309 columnas (2308 genes + clase)
 - [A3.1.SVM.ipynb](https://github.com/raulquinterog/SVM-y-Multiple-Testing/blob/207a342eceeb7489c7d0c804e8dfbdb7571bd95e/A3.1.SVM.ipynb): archivo con el código
