@@ -50,9 +50,9 @@ Esta ejercicio analiza la expresión génica en una base de datos con 83 muestra
 
 ## Archivo de datos
 
-- [A3.1 Khan.csv]([URL](https://github.com/raulquinterog/SVM-y-Multiple-Testing/blob/207a342eceeb7489c7d0c804e8dfbdb7571bd95e/A3.1%20Khan.csv))
+- [A3.1 Khan.csv](https://github.com/raulquinterog/SVM-y-Multiple-Testing/blob/207a342eceeb7489c7d0c804e8dfbdb7571bd95e/A3.1%20Khan.csv)
 - `A3.1 Khan.csv`: archivo con 83 muestras y 2309 columnas (2308 genes + clase)
-- [A3.1.SVM.ipynb]([URL](https://github.com/raulquinterog/SVM-y-Multiple-Testing/blob/207a342eceeb7489c7d0c804e8dfbdb7571bd95e/A3.1.SVM.ipynb))
+- [A3.1.SVM.ipynb](https://github.com/raulquinterog/SVM-y-Multiple-Testing/blob/207a342eceeb7489c7d0c804e8dfbdb7571bd95e/A3.1.SVM.ipynb)
 - `A3.1.SVM.ipynb`: archivo con el código
 
 ---
